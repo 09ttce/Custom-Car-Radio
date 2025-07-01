@@ -1,4 +1,4 @@
-# O.1.0
+# 0.1.0
 - Build Linux base with Yocto Project for Raspberry Pi 5 HW
     - BitBake 2.8.0
     - x86_64 aarch64-poky-linux 5.0.8
